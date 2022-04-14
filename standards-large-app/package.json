@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "pinia": "^2.0.13",
-    "vue": "^3.2.31",
+    "vue": "^3.2.32",
     "vue-router": "^4.0.14"
   },
   "devDependencies": {
@@ -34,7 +34,6 @@
     "start-server-and-test": "^1.14.0",
     "typescript": "~4.6.3",
     "vite": "^2.9.1",
-    "vite-plugin-checker": "^0.4.5",
     "vitest": "^0.8.1"
   }
 }
